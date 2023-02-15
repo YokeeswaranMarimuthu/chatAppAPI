@@ -1,0 +1,6 @@
+{
+    "createUser": "CALL createUser(?,?,?);",
+    "getUserDetails":"CALL getUserDetails(?,?)",
+    "getChatDetails":"CALL getChatDetails(?)",
+    "addMessage":"CALL addMessage(?,?,?)"
+}
